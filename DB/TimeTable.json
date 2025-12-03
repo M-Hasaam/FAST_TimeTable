@@ -2,8 +2,8 @@
   "Update": {
     "status": "success",
     "message": "Timetable extraction completed successfully.",
-    "last_updated_utc": "2025-12-03 05:19:12 UTC",
-    "local_time_pkt": "2025-12-03 10:19:12 AM PKT"
+    "last_updated_utc": "2025-12-03 06:31:37 UTC",
+    "local_time_pkt": "2025-12-03 11:31:37 AM PKT"
   },
   "BS": {
     "CS": {
@@ -2637,17 +2637,6 @@
           ],
           "Wednesday": [
             {
-              "start": "01:00 PM",
-              "end": "02:20 PM",
-              "name": "LA",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [
-                "ReSchedule"
-              ],
-              "location": "C-406"
-            },
-            {
               "start": "10:00 AM",
               "end": "11:20 AM",
               "name": "LA",
@@ -2676,6 +2665,17 @@
             }
           ],
           "Thursday": [
+            {
+              "start": "11:30 AM",
+              "end": "12:50 PM",
+              "name": "LA",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [
+                "ReSchedule"
+              ],
+              "location": "C-309"
+            },
             {
               "start": "08:30 AM",
               "end": "09:50 AM",
@@ -6724,17 +6724,6 @@
               "sub_Section": null,
               "info": [],
               "location": "C-407"
-            },
-            {
-              "start": "02:30 PM",
-              "end": "05:15 PM",
-              "name": "Data St Lab",
-              "type": "Lab",
-              "sub_Section": null,
-              "info": [
-                "ReSchedule"
-              ],
-              "location": "Rawal 3 (B-232)"
             }
           ],
           "Friday": [
