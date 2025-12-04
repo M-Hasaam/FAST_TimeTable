@@ -2,31 +2,49 @@
   "Update": {
     "status": "success",
     "message": "Timetable extraction completed successfully.",
-    "last_updated_utc": "2025-12-04 09:24:35 UTC",
-    "local_time_pkt": "2025-12-04 02:24:35 PM PKT"
+    "last_updated_utc": "2025-12-04 10:23:47 UTC",
+    "local_time_pkt": "2025-12-04 03:23:47 PM PKT"
   },
   "BS": {
-    "AI": {
+    "SE": {
       "2022": {
         "A": {
           "Thursday": [
             {
               "start": "10:00 AM",
               "end": "11:20 AM",
-              "name": "Reinf Learning",
+              "name": "MLOps",
               "type": "Class",
               "sub_Section": null,
               "info": [],
-              "location": "D-403"
+              "location": "C-409"
             },
             {
-              "start": "02:30 PM",
-              "end": "03:50 PM",
-              "name": "Org Behavior",
+              "start": "11:30 AM",
+              "end": "12:50 PM",
+              "name": "Cloud Comp",
               "type": "Class",
               "sub_Section": null,
               "info": [],
-              "location": "D-404"
+              "location": "C-409"
+            },
+            {
+              "start": "08:30 AM",
+              "end": "09:50 AM",
+              "name": "Info Sec",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [],
+              "location": "D-415"
+            },
+            {
+              "start": "10:00 AM",
+              "end": "11:20 AM",
+              "name": "NLP",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [],
+              "location": "D-415"
             },
             {
               "start": "10:00 AM",
@@ -35,27 +53,7 @@
               "type": "Class",
               "sub_Section": null,
               "info": [],
-              "location": "D-405"
-            }
-          ],
-          "Friday": [
-            {
-              "start": "05:20 PM",
-              "end": "06:40 PM",
-              "name": "Adv AI",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [],
-              "location": "D-304"
-            },
-            {
-              "start": "06:45 PM",
-              "end": "08:05 PM",
-              "name": "Adv AI",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [],
-              "location": "D-304"
+              "location": "D-416"
             }
           ]
         },
@@ -64,11 +62,29 @@
             {
               "start": "11:30 AM",
               "end": "12:50 PM",
-              "name": "Reinf Learning",
+              "name": "MLOps",
               "type": "Class",
               "sub_Section": null,
               "info": [],
-              "location": "D-403"
+              "location": "C-408"
+            },
+            {
+              "start": "11:30 AM",
+              "end": "12:50 PM",
+              "name": "NLP",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [],
+              "location": "D-415"
+            },
+            {
+              "start": "01:00 PM",
+              "end": "02:20 PM",
+              "name": "Info Sec",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [],
+              "location": "D-415"
             },
             {
               "start": "11:30 AM",
@@ -77,29 +93,20 @@
               "type": "Class",
               "sub_Section": null,
               "info": [],
-              "location": "D-405"
-            },
-            {
-              "start": "02:30 PM",
-              "end": "03:50 PM",
-              "name": "Comp Vision",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [],
-              "location": "D-405"
+              "location": "D-416"
             }
           ]
         },
         "C": {
           "Thursday": [
             {
-              "start": "01:00 PM",
-              "end": "02:20 PM",
-              "name": "Comp Vision",
+              "start": "08:30 AM",
+              "end": "09:50 AM",
+              "name": "Fund of SPM",
               "type": "Class",
               "sub_Section": null,
               "info": [],
-              "location": "D-404"
+              "location": "D-403"
             }
           ]
         },
@@ -108,33 +115,98 @@
             {
               "start": "01:00 PM",
               "end": "02:20 PM",
-              "name": "Org Behavior",
+              "name": "S/w Re-Engg",
               "type": "Class",
               "sub_Section": null,
               "info": [],
-              "location": "D-405"
-            },
-            {
-              "start": "02:30 PM",
-              "end": "05:15 PM",
-              "name": "Comp Vision Lab",
-              "type": "Lab",
-              "sub_Section": null,
-              "info": [],
-              "location": "A-Mehran 1"
+              "location": "C-409"
             }
           ]
         },
-        "null": {
+        "E": {
           "Thursday": [
             {
-              "start": "05:20 PM",
-              "end": "06:40 PM",
-              "name": "Math Found of AI",
+              "start": "08:30 AM",
+              "end": "09:50 AM",
+              "name": "S/w Re-Engg",
               "type": "Class",
               "sub_Section": null,
               "info": [],
-              "location": "D-305"
+              "location": "D-414"
+            }
+          ]
+        },
+        "F": {
+          "Thursday": [
+            {
+              "start": "01:00 PM",
+              "end": "02:20 PM",
+              "name": "Fund of SPM",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [],
+              "location": "D-416"
+            }
+          ],
+          "Friday": [
+            {
+              "start": "02:30 PM",
+              "end": "03:50 PM",
+              "name": "Info Sec",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [
+                "ReSchedule"
+              ],
+              "location": "D-304"
+            },
+            {
+              "start": "03:55 PM",
+              "end": "05:15 PM",
+              "name": "Info Sec",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [
+                "ReSchedule"
+              ],
+              "location": "D-304"
+            }
+          ]
+        },
+        "G": {
+          "Thursday": [
+            {
+              "start": "01:00 PM",
+              "end": "02:20 PM",
+              "name": "S/w Re-Engg",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [],
+              "location": "C-408"
+            }
+          ],
+          "Friday": [
+            {
+              "start": "10:00 AM",
+              "end": "11:20 AM",
+              "name": "Info Sec",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [
+                "ReSchedule"
+              ],
+              "location": "D-304"
+            },
+            {
+              "start": "11:30 AM",
+              "end": "12:50 PM",
+              "name": "Info Sec",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [
+                "ReSchedule"
+              ],
+              "location": "D-304"
             }
           ]
         }
@@ -143,94 +215,94 @@
         "A": {
           "Thursday": [
             {
+              "start": "01:00 PM",
+              "end": "02:20 PM",
+              "name": "TBW",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [],
+              "location": "C-407"
+            },
+            {
+              "start": "08:30 AM",
+              "end": "09:50 AM",
+              "name": "S/w Qual Engg",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [],
+              "location": "C-408"
+            },
+            {
+              "start": "10:00 AM",
+              "end": "11:20 AM",
+              "name": "Busi Proc Engg",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [],
+              "location": "C-408"
+            }
+          ],
+          "Friday": [
+            {
               "start": "08:30 AM",
               "end": "09:50 AM",
               "name": "Algo",
               "type": "Class",
               "sub_Section": null,
               "info": [],
-              "location": "D-402"
+              "location": "C-310"
             },
-            {
-              "start": "01:00 PM",
-              "end": "02:20 PM",
-              "name": "ML",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [],
-              "location": "D-403"
-            },
-            {
-              "start": "11:30 AM",
-              "end": "12:50 PM",
-              "name": "OS",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [],
-              "location": "D-411"
-            }
-          ],
-          "Friday": [
             {
               "start": "10:00 AM",
               "end": "11:20 AM",
-              "name": "KRR",
+              "name": "S/w Const",
               "type": "Class",
               "sub_Section": null,
               "info": [],
-              "location": "C-302"
-            },
-            {
-              "start": "11:30 AM",
-              "end": "12:50 PM",
-              "name": "TBW",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [],
-              "location": "C-302"
-            },
-            {
-              "start": "02:30 PM",
-              "end": "05:15 PM",
-              "name": "OS Lab",
-              "type": "Lab",
-              "sub_Section": null,
-              "info": [],
-              "location": "D-IT Lab 3"
+              "location": "C-310"
             }
           ]
         },
         "B": {
           "Thursday": [
             {
-              "start": "01:00 PM",
-              "end": "02:20 PM",
-              "name": "OS",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [],
-              "location": "D-316"
-            },
-            {
-              "start": "08:30 AM",
-              "end": "09:50 AM",
+              "start": "11:30 AM",
+              "end": "12:50 PM",
               "name": "TBW",
               "type": "Class",
               "sub_Section": null,
               "info": [],
-              "location": "D-404"
+              "location": "C-405"
             },
             {
-              "start": "10:00 AM",
-              "end": "11:20 AM",
-              "name": "ML",
+              "start": "01:00 PM",
+              "end": "02:20 PM",
+              "name": "S/w Qual Engg",
               "type": "Class",
               "sub_Section": null,
               "info": [],
-              "location": "D-404"
+              "location": "C-405"
+            },
+            {
+              "start": "08:30 AM",
+              "end": "09:50 AM",
+              "name": "Busi Proc Engg",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [],
+              "location": "C-409"
             }
           ],
           "Friday": [
+            {
+              "start": "08:30 AM",
+              "end": "09:50 AM",
+              "name": "S/w Const",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [],
+              "location": "C-311"
+            },
             {
               "start": "10:00 AM",
               "end": "11:20 AM",
@@ -238,25 +310,7 @@
               "type": "Class",
               "sub_Section": null,
               "info": [],
-              "location": "C-303"
-            },
-            {
-              "start": "11:30 AM",
-              "end": "12:50 PM",
-              "name": "KRR",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [],
-              "location": "C-303"
-            },
-            {
-              "start": "02:30 PM",
-              "end": "05:15 PM",
-              "name": "ML Lab",
-              "type": "Lab",
-              "sub_Section": null,
-              "info": [],
-              "location": "D-IT Lab 2"
+              "location": "C-311"
             }
           ]
         }
@@ -265,64 +319,121 @@
         "A": {
           "Thursday": [
             {
-              "start": "11:30 AM",
-              "end": "12:50 PM",
-              "name": "COAL",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [],
-              "location": "D-401"
-            },
-            {
               "start": "01:00 PM",
               "end": "02:20 PM",
-              "name": "LA",
+              "name": "Intro to SE",
               "type": "Class",
               "sub_Section": null,
               "info": [],
-              "location": "D-402"
+              "location": "C-404"
             },
             {
               "start": "08:30 AM",
-              "end": "11:15 AM",
-              "name": "COAL Lab",
-              "type": "Lab",
+              "end": "09:50 AM",
+              "name": "DLD",
+              "type": "Class",
               "sub_Section": null,
               "info": [],
-              "location": "C-Rawal 4"
+              "location": "C-406"
+            },
+            {
+              "start": "11:30 AM",
+              "end": "12:50 PM",
+              "name": "Data St",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [],
+              "location": "C-407"
             }
           ],
           "Friday": [
             {
-              "start": "11:30 AM",
-              "end": "01:15 PM",
-              "name": "Psychology",
+              "start": "02:30 PM",
+              "end": "03:50 PM",
+              "name": "Intro to SE",
               "type": "Class",
               "sub_Section": null,
-              "info": [],
-              "location": "C-305"
+              "info": [
+                "ReSchedule"
+              ],
+              "location": "C-302"
             },
             {
               "start": "08:30 AM",
               "end": "11:15 AM",
-              "name": "Data St Lab",
+              "name": "DLD Lab",
               "type": "Lab",
               "sub_Section": null,
-              "info": [],
-              "location": "C-Margala 1"
+              "info": [
+                "ReSchedule"
+              ],
+              "location": "B-Digital"
             }
           ]
         },
         "B": {
           "Thursday": [
             {
-              "start": "01:00 PM",
-              "end": "02:20 PM",
-              "name": "COAL",
+              "start": "02:30 PM",
+              "end": "03:50 PM",
+              "name": "Intro to SE",
               "type": "Class",
               "sub_Section": null,
               "info": [],
-              "location": "D-401"
+              "location": "C-310"
+            },
+            {
+              "start": "12:45 PM",
+              "end": "02:30 PM",
+              "name": "Psychology",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [],
+              "location": "C-406"
+            },
+            {
+              "start": "08:30 AM",
+              "end": "09:50 AM",
+              "name": "Data St",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [],
+              "location": "C-407"
+            },
+            {
+              "start": "10:00 AM",
+              "end": "11:20 AM",
+              "name": "DLD",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [],
+              "location": "C-407"
+            }
+          ],
+          "Friday": [
+            {
+              "start": "03:55 PM",
+              "end": "05:15 PM",
+              "name": "Intro to SE",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [
+                "ReSchedule"
+              ],
+              "location": "C-302"
+            }
+          ]
+        },
+        "C": {
+          "Thursday": [
+            {
+              "start": "01:00 PM",
+              "end": "02:20 PM",
+              "name": "Data St",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [],
+              "location": "C-311"
             },
             {
               "start": "11:30 AM",
@@ -331,89 +442,16 @@
               "type": "Class",
               "sub_Section": null,
               "info": [],
-              "location": "D-402"
+              "location": "C-404"
             },
             {
               "start": "08:30 AM",
               "end": "11:15 AM",
-              "name": "Prog for AI Lab",
+              "name": "DLD Lab",
               "type": "Lab",
               "sub_Section": null,
               "info": [],
-              "location": "D-IT Lab 4"
-            }
-          ],
-          "Friday": [
-            {
-              "start": "08:30 AM",
-              "end": "10:15 AM",
-              "name": "Psychology",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [],
-              "location": "C-305"
-            },
-            {
-              "start": "10:30 AM",
-              "end": "01:15 PM",
-              "name": "COAL Lab",
-              "type": "Lab",
-              "sub_Section": null,
-              "info": [],
-              "location": "C-Margala 4"
-            }
-          ]
-        },
-        "C": {
-          "Thursday": [
-            {
-              "start": "08:30 AM",
-              "end": "09:50 AM",
-              "name": "Discrete",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [],
-              "location": "D-401"
-            },
-            {
-              "start": "10:00 AM",
-              "end": "11:20 AM",
-              "name": "Prog for AI",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [
-                "Cancelled"
-              ],
-              "location": "D-401"
-            },
-            {
-              "start": "11:30 AM",
-              "end": "02:15 PM",
-              "name": "COAL Lab",
-              "type": "Lab",
-              "sub_Section": null,
-              "info": [],
-              "location": "C-Rawal 4"
-            }
-          ],
-          "Friday": [
-            {
-              "start": "11:30 AM",
-              "end": "01:15 PM",
-              "name": "Psychology",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [],
-              "location": "C-307"
-            },
-            {
-              "start": "02:30 PM",
-              "end": "05:15 PM",
-              "name": "Prog for AI Lab",
-              "type": "Lab",
-              "sub_Section": null,
-              "info": [],
-              "location": "D-IT Lab 4"
+              "location": "B-Digital"
             }
           ]
         }
@@ -422,22 +460,13 @@
         "A": {
           "Thursday": [
             {
-              "start": "11:30 AM",
-              "end": "12:50 PM",
-              "name": "Discrete",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [],
-              "location": "C-308"
-            },
-            {
               "start": "08:30 AM",
               "end": "09:50 AM",
               "name": "PF",
               "type": "Class",
               "sub_Section": null,
               "info": [],
-              "location": "C-309"
+              "location": "C-401"
             },
             {
               "start": "10:00 AM",
@@ -446,23 +475,87 @@
               "type": "Class",
               "sub_Section": null,
               "info": [],
-              "location": "C-309"
+              "location": "C-401"
             },
             {
-              "start": "03:00 PM",
-              "end": "04:45 PM",
+              "start": "11:30 AM",
+              "end": "12:50 PM",
+              "name": "Discrete",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [],
+              "location": "C-401"
+            }
+          ],
+          "Friday": [
+            {
+              "start": "02:30 PM",
+              "end": "04:15 PM",
+              "name": "Islamic",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [],
+              "location": "C-301"
+            },
+            {
+              "start": "11:30 AM",
+              "end": "01:15 PM",
               "name": "Ideology of Pak",
               "type": "Class",
               "sub_Section": null,
-              "info": [
-                "ReSchedule"
-              ],
-              "location": "C-404"
+              "info": [],
+              "location": "C-308"
             }
-          ]
+          ],
+          "Subsections": {
+            "A1": {
+              "Friday": [
+                {
+                  "start": "08:30 AM",
+                  "end": "11:15 AM",
+                  "name": "Func Eng Lab",
+                  "type": "Lab",
+                  "sub_Section": null,
+                  "info": [],
+                  "location": "A-Mehran 2"
+                }
+              ]
+            },
+            "A2": {
+              "Friday": [
+                {
+                  "start": "08:30 AM",
+                  "end": "11:15 AM",
+                  "name": "Func Eng Lab",
+                  "type": "Lab",
+                  "sub_Section": null,
+                  "info": [],
+                  "location": "A-CALL-3"
+                }
+              ]
+            }
+          }
         },
         "B": {
           "Thursday": [
+            {
+              "start": "08:30 AM",
+              "end": "09:50 AM",
+              "name": "Calculus",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [],
+              "location": "C-402"
+            },
+            {
+              "start": "10:00 AM",
+              "end": "11:20 AM",
+              "name": "PF",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [],
+              "location": "C-402"
+            },
             {
               "start": "01:00 PM",
               "end": "02:20 PM",
@@ -470,47 +563,99 @@
               "type": "Class",
               "sub_Section": null,
               "info": [],
-              "location": "C-308"
-            },
-            {
-              "start": "08:30 AM",
-              "end": "09:50 AM",
-              "name": "Calculus",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [],
-              "location": "C-310"
-            },
-            {
-              "start": "10:00 AM",
-              "end": "11:20 AM",
-              "name": "PF",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [],
-              "location": "C-310"
+              "location": "C-402"
             }
-          ]
-        },
-        "C": {
-          "Thursday": [
+          ],
+          "Friday": [
             {
               "start": "09:00 AM",
               "end": "10:45 AM",
-              "name": "Start from 08:30 Islamic",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [],
-              "location": "C-308"
-            },
-            {
-              "start": "02:30 PM",
-              "end": "04:15 PM",
               "name": "Func Eng",
               "type": "Class",
               "sub_Section": null,
               "info": [],
-              "location": "C-308"
+              "location": "C-309"
+            },
+            {
+              "start": "11:00 AM",
+              "end": "12:45 PM",
+              "name": "Islamic",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [],
+              "location": "C-309"
+            }
+          ],
+          "Subsections": {
+            "B1": {
+              "Friday": [
+                {
+                  "start": "02:30 PM",
+                  "end": "05:15 PM",
+                  "name": "Func Eng Lab",
+                  "type": "Lab",
+                  "sub_Section": null,
+                  "info": [],
+                  "location": "A-Mehran 2"
+                }
+              ]
+            },
+            "B2": {
+              "Friday": [
+                {
+                  "start": "02:30 PM",
+                  "end": "05:15 PM",
+                  "name": "Func Eng Lab",
+                  "type": "Lab",
+                  "sub_Section": null,
+                  "info": [],
+                  "location": "A-CALL-1"
+                }
+              ]
+            }
+          }
+        },
+        "C": {
+          "Thursday": [
+            {
+              "start": "01:00 PM",
+              "end": "02:45 PM",
+              "name": "Func Eng",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [],
+              "location": "C-401"
+            },
+            {
+              "start": "03:00 PM",
+              "end": "04:45 PM",
+              "name": "Islamic",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [],
+              "location": "C-401"
+            },
+            {
+              "start": "08:30 AM",
+              "end": "11:15 AM",
+              "name": "IICT Lab",
+              "type": "Lab",
+              "sub_Section": null,
+              "info": [],
+              "location": "C-Margala 1"
+            }
+          ]
+        },
+        "D": {
+          "Thursday": [
+            {
+              "start": "02:30 PM",
+              "end": "05:15 PM",
+              "name": "IICT Lab",
+              "type": "Lab",
+              "sub_Section": null,
+              "info": [],
+              "location": "D-IT Lab 2"
             },
             {
               "start": "11:30 AM",
@@ -519,7 +664,20 @@
               "type": "Lab",
               "sub_Section": null,
               "info": [],
-              "location": "D-IT Lab 2"
+              "location": "D-IT Lab 3"
+            }
+          ],
+          "Friday": [
+            {
+              "start": "09:00 AM",
+              "end": "11:00 AM",
+              "name": "Islamic",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [
+                "ReSchedule"
+              ],
+              "location": "D-302"
             }
           ]
         }
@@ -2230,683 +2388,6 @@
         }
       }
     },
-    "SE": {
-      "2022": {
-        "A": {
-          "Thursday": [
-            {
-              "start": "10:00 AM",
-              "end": "11:20 AM",
-              "name": "MLOps",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [],
-              "location": "C-409"
-            },
-            {
-              "start": "11:30 AM",
-              "end": "12:50 PM",
-              "name": "Cloud Comp",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [],
-              "location": "C-409"
-            },
-            {
-              "start": "08:30 AM",
-              "end": "09:50 AM",
-              "name": "Info Sec",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [],
-              "location": "D-415"
-            },
-            {
-              "start": "10:00 AM",
-              "end": "11:20 AM",
-              "name": "NLP",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [],
-              "location": "D-415"
-            },
-            {
-              "start": "10:00 AM",
-              "end": "11:20 AM",
-              "name": "Gen AI",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [],
-              "location": "D-416"
-            }
-          ]
-        },
-        "B": {
-          "Thursday": [
-            {
-              "start": "11:30 AM",
-              "end": "12:50 PM",
-              "name": "MLOps",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [],
-              "location": "C-408"
-            },
-            {
-              "start": "11:30 AM",
-              "end": "12:50 PM",
-              "name": "NLP",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [],
-              "location": "D-415"
-            },
-            {
-              "start": "01:00 PM",
-              "end": "02:20 PM",
-              "name": "Info Sec",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [],
-              "location": "D-415"
-            },
-            {
-              "start": "11:30 AM",
-              "end": "12:50 PM",
-              "name": "Gen AI",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [],
-              "location": "D-416"
-            }
-          ]
-        },
-        "C": {
-          "Thursday": [
-            {
-              "start": "08:30 AM",
-              "end": "09:50 AM",
-              "name": "Fund of SPM",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [],
-              "location": "D-403"
-            }
-          ]
-        },
-        "D": {
-          "Thursday": [
-            {
-              "start": "01:00 PM",
-              "end": "02:20 PM",
-              "name": "S/w Re-Engg",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [],
-              "location": "C-409"
-            }
-          ]
-        },
-        "E": {
-          "Thursday": [
-            {
-              "start": "08:30 AM",
-              "end": "09:50 AM",
-              "name": "S/w Re-Engg",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [],
-              "location": "D-414"
-            }
-          ]
-        },
-        "F": {
-          "Thursday": [
-            {
-              "start": "01:00 PM",
-              "end": "02:20 PM",
-              "name": "Fund of SPM",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [],
-              "location": "D-416"
-            }
-          ],
-          "Friday": [
-            {
-              "start": "02:30 PM",
-              "end": "03:50 PM",
-              "name": "Info Sec",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [
-                "ReSchedule"
-              ],
-              "location": "D-304"
-            },
-            {
-              "start": "03:55 PM",
-              "end": "05:15 PM",
-              "name": "Info Sec",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [
-                "ReSchedule"
-              ],
-              "location": "D-304"
-            }
-          ]
-        },
-        "G": {
-          "Thursday": [
-            {
-              "start": "01:00 PM",
-              "end": "02:20 PM",
-              "name": "S/w Re-Engg",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [],
-              "location": "C-408"
-            }
-          ],
-          "Friday": [
-            {
-              "start": "10:00 AM",
-              "end": "11:20 AM",
-              "name": "Info Sec",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [
-                "ReSchedule"
-              ],
-              "location": "D-304"
-            },
-            {
-              "start": "11:30 AM",
-              "end": "12:50 PM",
-              "name": "Info Sec",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [
-                "ReSchedule"
-              ],
-              "location": "D-304"
-            }
-          ]
-        }
-      },
-      "2023": {
-        "A": {
-          "Thursday": [
-            {
-              "start": "01:00 PM",
-              "end": "02:20 PM",
-              "name": "TBW",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [],
-              "location": "C-407"
-            },
-            {
-              "start": "08:30 AM",
-              "end": "09:50 AM",
-              "name": "S/w Qual Engg",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [],
-              "location": "C-408"
-            },
-            {
-              "start": "10:00 AM",
-              "end": "11:20 AM",
-              "name": "Busi Proc Engg",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [],
-              "location": "C-408"
-            }
-          ],
-          "Friday": [
-            {
-              "start": "08:30 AM",
-              "end": "09:50 AM",
-              "name": "Algo",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [],
-              "location": "C-310"
-            },
-            {
-              "start": "10:00 AM",
-              "end": "11:20 AM",
-              "name": "S/w Const",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [],
-              "location": "C-310"
-            }
-          ]
-        },
-        "B": {
-          "Thursday": [
-            {
-              "start": "11:30 AM",
-              "end": "12:50 PM",
-              "name": "TBW",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [],
-              "location": "C-405"
-            },
-            {
-              "start": "01:00 PM",
-              "end": "02:20 PM",
-              "name": "S/w Qual Engg",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [],
-              "location": "C-405"
-            },
-            {
-              "start": "08:30 AM",
-              "end": "09:50 AM",
-              "name": "Busi Proc Engg",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [],
-              "location": "C-409"
-            }
-          ],
-          "Friday": [
-            {
-              "start": "08:30 AM",
-              "end": "09:50 AM",
-              "name": "S/w Const",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [],
-              "location": "C-311"
-            },
-            {
-              "start": "10:00 AM",
-              "end": "11:20 AM",
-              "name": "Algo",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [],
-              "location": "C-311"
-            }
-          ]
-        }
-      },
-      "2024": {
-        "A": {
-          "Thursday": [
-            {
-              "start": "01:00 PM",
-              "end": "02:20 PM",
-              "name": "Intro to SE",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [],
-              "location": "C-404"
-            },
-            {
-              "start": "08:30 AM",
-              "end": "09:50 AM",
-              "name": "DLD",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [],
-              "location": "C-406"
-            },
-            {
-              "start": "11:30 AM",
-              "end": "12:50 PM",
-              "name": "Data St",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [],
-              "location": "C-407"
-            }
-          ],
-          "Friday": [
-            {
-              "start": "02:30 PM",
-              "end": "03:50 PM",
-              "name": "Intro to SE",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [
-                "ReSchedule"
-              ],
-              "location": "C-302"
-            },
-            {
-              "start": "08:30 AM",
-              "end": "11:15 AM",
-              "name": "DLD Lab",
-              "type": "Lab",
-              "sub_Section": null,
-              "info": [
-                "ReSchedule"
-              ],
-              "location": "B-Digital"
-            }
-          ]
-        },
-        "B": {
-          "Thursday": [
-            {
-              "start": "02:30 PM",
-              "end": "03:50 PM",
-              "name": "Intro to SE",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [],
-              "location": "C-310"
-            },
-            {
-              "start": "12:45 PM",
-              "end": "02:30 PM",
-              "name": "Psychology",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [],
-              "location": "C-406"
-            },
-            {
-              "start": "08:30 AM",
-              "end": "09:50 AM",
-              "name": "Data St",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [],
-              "location": "C-407"
-            },
-            {
-              "start": "10:00 AM",
-              "end": "11:20 AM",
-              "name": "DLD",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [],
-              "location": "C-407"
-            }
-          ],
-          "Friday": [
-            {
-              "start": "03:55 PM",
-              "end": "05:15 PM",
-              "name": "Intro to SE",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [
-                "ReSchedule"
-              ],
-              "location": "C-302"
-            }
-          ]
-        },
-        "C": {
-          "Thursday": [
-            {
-              "start": "01:00 PM",
-              "end": "02:20 PM",
-              "name": "Data St",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [],
-              "location": "C-311"
-            },
-            {
-              "start": "11:30 AM",
-              "end": "12:50 PM",
-              "name": "LA",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [],
-              "location": "C-404"
-            },
-            {
-              "start": "08:30 AM",
-              "end": "11:15 AM",
-              "name": "DLD Lab",
-              "type": "Lab",
-              "sub_Section": null,
-              "info": [],
-              "location": "B-Digital"
-            }
-          ]
-        }
-      },
-      "2025": {
-        "A": {
-          "Thursday": [
-            {
-              "start": "08:30 AM",
-              "end": "09:50 AM",
-              "name": "PF",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [],
-              "location": "C-401"
-            },
-            {
-              "start": "10:00 AM",
-              "end": "11:20 AM",
-              "name": "Calculus",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [],
-              "location": "C-401"
-            },
-            {
-              "start": "11:30 AM",
-              "end": "12:50 PM",
-              "name": "Discrete",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [],
-              "location": "C-401"
-            }
-          ],
-          "Friday": [
-            {
-              "start": "02:30 PM",
-              "end": "04:15 PM",
-              "name": "Islamic",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [],
-              "location": "C-301"
-            },
-            {
-              "start": "11:30 AM",
-              "end": "01:15 PM",
-              "name": "Ideology of Pak",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [],
-              "location": "C-308"
-            }
-          ],
-          "Subsections": {
-            "A1": {
-              "Friday": [
-                {
-                  "start": "08:30 AM",
-                  "end": "11:15 AM",
-                  "name": "Func Eng Lab",
-                  "type": "Lab",
-                  "sub_Section": null,
-                  "info": [],
-                  "location": "A-Mehran 2"
-                }
-              ]
-            },
-            "A2": {
-              "Friday": [
-                {
-                  "start": "08:30 AM",
-                  "end": "11:15 AM",
-                  "name": "Func Eng Lab",
-                  "type": "Lab",
-                  "sub_Section": null,
-                  "info": [],
-                  "location": "A-CALL-3"
-                }
-              ]
-            }
-          }
-        },
-        "B": {
-          "Thursday": [
-            {
-              "start": "08:30 AM",
-              "end": "09:50 AM",
-              "name": "Calculus",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [],
-              "location": "C-402"
-            },
-            {
-              "start": "10:00 AM",
-              "end": "11:20 AM",
-              "name": "PF",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [],
-              "location": "C-402"
-            },
-            {
-              "start": "01:00 PM",
-              "end": "02:20 PM",
-              "name": "Discrete",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [],
-              "location": "C-402"
-            }
-          ],
-          "Friday": [
-            {
-              "start": "09:00 AM",
-              "end": "10:45 AM",
-              "name": "Func Eng",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [],
-              "location": "C-309"
-            },
-            {
-              "start": "11:00 AM",
-              "end": "12:45 PM",
-              "name": "Islamic",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [],
-              "location": "C-309"
-            }
-          ],
-          "Subsections": {
-            "B1": {
-              "Friday": [
-                {
-                  "start": "02:30 PM",
-                  "end": "05:15 PM",
-                  "name": "Func Eng Lab",
-                  "type": "Lab",
-                  "sub_Section": null,
-                  "info": [],
-                  "location": "A-Mehran 2"
-                }
-              ]
-            },
-            "B2": {
-              "Friday": [
-                {
-                  "start": "02:30 PM",
-                  "end": "05:15 PM",
-                  "name": "Func Eng Lab",
-                  "type": "Lab",
-                  "sub_Section": null,
-                  "info": [],
-                  "location": "A-CALL-1"
-                }
-              ]
-            }
-          }
-        },
-        "C": {
-          "Thursday": [
-            {
-              "start": "01:00 PM",
-              "end": "02:45 PM",
-              "name": "Func Eng",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [],
-              "location": "C-401"
-            },
-            {
-              "start": "03:00 PM",
-              "end": "04:45 PM",
-              "name": "Islamic",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [],
-              "location": "C-401"
-            },
-            {
-              "start": "08:30 AM",
-              "end": "11:15 AM",
-              "name": "IICT Lab",
-              "type": "Lab",
-              "sub_Section": null,
-              "info": [],
-              "location": "C-Margala 1"
-            }
-          ]
-        },
-        "D": {
-          "Thursday": [
-            {
-              "start": "02:30 PM",
-              "end": "05:15 PM",
-              "name": "IICT Lab",
-              "type": "Lab",
-              "sub_Section": null,
-              "info": [],
-              "location": "D-IT Lab 2"
-            },
-            {
-              "start": "11:30 AM",
-              "end": "02:15 PM",
-              "name": "PF Lab",
-              "type": "Lab",
-              "sub_Section": null,
-              "info": [],
-              "location": "D-IT Lab 3"
-            }
-          ],
-          "Friday": [
-            {
-              "start": "09:00 AM",
-              "end": "11:00 AM",
-              "name": "Islamic",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [
-                "ReSchedule"
-              ],
-              "location": "D-302"
-            }
-          ]
-        }
-      }
-    },
     "DS": {
       "2022": {
         "A": {
@@ -3386,9 +2867,554 @@
           }
         }
       }
+    },
+    "AI": {
+      "2022": {
+        "A": {
+          "Thursday": [
+            {
+              "start": "10:00 AM",
+              "end": "11:20 AM",
+              "name": "Reinf Learning",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [],
+              "location": "D-403"
+            },
+            {
+              "start": "02:30 PM",
+              "end": "03:50 PM",
+              "name": "Org Behavior",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [],
+              "location": "D-404"
+            },
+            {
+              "start": "10:00 AM",
+              "end": "11:20 AM",
+              "name": "Gen AI",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [],
+              "location": "D-405"
+            }
+          ],
+          "Friday": [
+            {
+              "start": "05:20 PM",
+              "end": "06:40 PM",
+              "name": "Adv AI",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [],
+              "location": "D-304"
+            },
+            {
+              "start": "06:45 PM",
+              "end": "08:05 PM",
+              "name": "Adv AI",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [],
+              "location": "D-304"
+            }
+          ]
+        },
+        "B": {
+          "Thursday": [
+            {
+              "start": "11:30 AM",
+              "end": "12:50 PM",
+              "name": "Reinf Learning",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [],
+              "location": "D-403"
+            },
+            {
+              "start": "11:30 AM",
+              "end": "12:50 PM",
+              "name": "Gen AI",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [],
+              "location": "D-405"
+            },
+            {
+              "start": "02:30 PM",
+              "end": "03:50 PM",
+              "name": "Comp Vision",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [],
+              "location": "D-405"
+            }
+          ]
+        },
+        "C": {
+          "Thursday": [
+            {
+              "start": "01:00 PM",
+              "end": "02:20 PM",
+              "name": "Comp Vision",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [],
+              "location": "D-404"
+            }
+          ]
+        },
+        "D": {
+          "Thursday": [
+            {
+              "start": "01:00 PM",
+              "end": "02:20 PM",
+              "name": "Org Behavior",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [],
+              "location": "D-405"
+            },
+            {
+              "start": "02:30 PM",
+              "end": "05:15 PM",
+              "name": "Comp Vision Lab",
+              "type": "Lab",
+              "sub_Section": null,
+              "info": [],
+              "location": "A-Mehran 1"
+            }
+          ]
+        },
+        "null": {
+          "Thursday": [
+            {
+              "start": "05:20 PM",
+              "end": "06:40 PM",
+              "name": "Math Found of AI",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [],
+              "location": "D-305"
+            }
+          ]
+        }
+      },
+      "2023": {
+        "A": {
+          "Thursday": [
+            {
+              "start": "08:30 AM",
+              "end": "09:50 AM",
+              "name": "Algo",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [],
+              "location": "D-402"
+            },
+            {
+              "start": "01:00 PM",
+              "end": "02:20 PM",
+              "name": "ML",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [],
+              "location": "D-403"
+            },
+            {
+              "start": "11:30 AM",
+              "end": "12:50 PM",
+              "name": "OS",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [],
+              "location": "D-411"
+            }
+          ],
+          "Friday": [
+            {
+              "start": "10:00 AM",
+              "end": "11:20 AM",
+              "name": "KRR",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [],
+              "location": "C-302"
+            },
+            {
+              "start": "11:30 AM",
+              "end": "12:50 PM",
+              "name": "TBW",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [],
+              "location": "C-302"
+            },
+            {
+              "start": "02:30 PM",
+              "end": "05:15 PM",
+              "name": "OS Lab",
+              "type": "Lab",
+              "sub_Section": null,
+              "info": [],
+              "location": "D-IT Lab 3"
+            }
+          ]
+        },
+        "B": {
+          "Thursday": [
+            {
+              "start": "01:00 PM",
+              "end": "02:20 PM",
+              "name": "OS",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [],
+              "location": "D-316"
+            },
+            {
+              "start": "08:30 AM",
+              "end": "09:50 AM",
+              "name": "TBW",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [],
+              "location": "D-404"
+            },
+            {
+              "start": "10:00 AM",
+              "end": "11:20 AM",
+              "name": "ML",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [],
+              "location": "D-404"
+            }
+          ],
+          "Friday": [
+            {
+              "start": "10:00 AM",
+              "end": "11:20 AM",
+              "name": "Algo",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [],
+              "location": "C-303"
+            },
+            {
+              "start": "11:30 AM",
+              "end": "12:50 PM",
+              "name": "KRR",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [],
+              "location": "C-303"
+            },
+            {
+              "start": "02:30 PM",
+              "end": "05:15 PM",
+              "name": "ML Lab",
+              "type": "Lab",
+              "sub_Section": null,
+              "info": [],
+              "location": "D-IT Lab 2"
+            }
+          ]
+        }
+      },
+      "2024": {
+        "A": {
+          "Thursday": [
+            {
+              "start": "11:30 AM",
+              "end": "12:50 PM",
+              "name": "COAL",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [],
+              "location": "D-401"
+            },
+            {
+              "start": "01:00 PM",
+              "end": "02:20 PM",
+              "name": "LA",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [],
+              "location": "D-402"
+            },
+            {
+              "start": "08:30 AM",
+              "end": "11:15 AM",
+              "name": "COAL Lab",
+              "type": "Lab",
+              "sub_Section": null,
+              "info": [],
+              "location": "C-Rawal 4"
+            }
+          ],
+          "Friday": [
+            {
+              "start": "11:30 AM",
+              "end": "01:15 PM",
+              "name": "Psychology",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [],
+              "location": "C-305"
+            },
+            {
+              "start": "08:30 AM",
+              "end": "11:15 AM",
+              "name": "Data St Lab",
+              "type": "Lab",
+              "sub_Section": null,
+              "info": [],
+              "location": "C-Margala 1"
+            }
+          ]
+        },
+        "B": {
+          "Thursday": [
+            {
+              "start": "01:00 PM",
+              "end": "02:20 PM",
+              "name": "COAL",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [],
+              "location": "D-401"
+            },
+            {
+              "start": "11:30 AM",
+              "end": "12:50 PM",
+              "name": "LA",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [],
+              "location": "D-402"
+            },
+            {
+              "start": "08:30 AM",
+              "end": "11:15 AM",
+              "name": "Prog for AI Lab",
+              "type": "Lab",
+              "sub_Section": null,
+              "info": [],
+              "location": "D-IT Lab 4"
+            }
+          ],
+          "Friday": [
+            {
+              "start": "08:30 AM",
+              "end": "10:15 AM",
+              "name": "Psychology",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [],
+              "location": "C-305"
+            },
+            {
+              "start": "10:30 AM",
+              "end": "01:15 PM",
+              "name": "COAL Lab",
+              "type": "Lab",
+              "sub_Section": null,
+              "info": [],
+              "location": "C-Margala 4"
+            }
+          ]
+        },
+        "C": {
+          "Thursday": [
+            {
+              "start": "08:30 AM",
+              "end": "09:50 AM",
+              "name": "Discrete",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [],
+              "location": "D-401"
+            },
+            {
+              "start": "10:00 AM",
+              "end": "11:20 AM",
+              "name": "Prog for AI",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [
+                "Cancelled"
+              ],
+              "location": "D-401"
+            },
+            {
+              "start": "11:30 AM",
+              "end": "02:15 PM",
+              "name": "COAL Lab",
+              "type": "Lab",
+              "sub_Section": null,
+              "info": [],
+              "location": "C-Rawal 4"
+            }
+          ],
+          "Friday": [
+            {
+              "start": "11:30 AM",
+              "end": "01:15 PM",
+              "name": "Psychology",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [],
+              "location": "C-307"
+            },
+            {
+              "start": "02:30 PM",
+              "end": "05:15 PM",
+              "name": "Prog for AI Lab",
+              "type": "Lab",
+              "sub_Section": null,
+              "info": [],
+              "location": "D-IT Lab 4"
+            }
+          ]
+        }
+      },
+      "2025": {
+        "A": {
+          "Thursday": [
+            {
+              "start": "11:30 AM",
+              "end": "12:50 PM",
+              "name": "Discrete",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [],
+              "location": "C-308"
+            },
+            {
+              "start": "08:30 AM",
+              "end": "09:50 AM",
+              "name": "PF",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [],
+              "location": "C-309"
+            },
+            {
+              "start": "10:00 AM",
+              "end": "11:20 AM",
+              "name": "Calculus",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [],
+              "location": "C-309"
+            },
+            {
+              "start": "03:00 PM",
+              "end": "04:45 PM",
+              "name": "Ideology of Pak",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [
+                "ReSchedule"
+              ],
+              "location": "C-404"
+            }
+          ]
+        },
+        "B": {
+          "Thursday": [
+            {
+              "start": "01:00 PM",
+              "end": "02:20 PM",
+              "name": "Discrete",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [],
+              "location": "C-308"
+            },
+            {
+              "start": "08:30 AM",
+              "end": "09:50 AM",
+              "name": "Calculus",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [],
+              "location": "C-310"
+            },
+            {
+              "start": "10:00 AM",
+              "end": "11:20 AM",
+              "name": "PF",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [],
+              "location": "C-310"
+            }
+          ]
+        },
+        "C": {
+          "Thursday": [
+            {
+              "start": "09:00 AM",
+              "end": "10:45 AM",
+              "name": "Start from 08:30 Islamic",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [],
+              "location": "C-308"
+            },
+            {
+              "start": "02:30 PM",
+              "end": "04:15 PM",
+              "name": "Func Eng",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [],
+              "location": "C-308"
+            },
+            {
+              "start": "11:30 AM",
+              "end": "02:15 PM",
+              "name": "PF Lab",
+              "type": "Lab",
+              "sub_Section": null,
+              "info": [],
+              "location": "D-IT Lab 2"
+            }
+          ]
+        }
+      }
     }
   },
   "MS": {
+    "SE": {
+      "null": {
+        "null": {
+          "Thursday": [
+            {
+              "start": "05:20 PM",
+              "end": "06:40 PM",
+              "name": "Adv S/w Arch",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [],
+              "location": "D-303"
+            },
+            {
+              "start": "06:45 PM",
+              "end": "08:05 PM",
+              "name": "Adv Qual Assur",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [],
+              "location": "D-303"
+            }
+          ]
+        }
+      }
+    },
     "CY": {
       "null": {
         "null": {
@@ -3447,32 +3473,6 @@
               "sub_Section": null,
               "info": [],
               "location": "D-301"
-            }
-          ]
-        }
-      }
-    },
-    "SE": {
-      "null": {
-        "null": {
-          "Thursday": [
-            {
-              "start": "05:20 PM",
-              "end": "06:40 PM",
-              "name": "Adv S/w Arch",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [],
-              "location": "D-303"
-            },
-            {
-              "start": "06:45 PM",
-              "end": "08:05 PM",
-              "name": "Adv Qual Assur",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [],
-              "location": "D-303"
             }
           ]
         }
@@ -4876,6 +4876,23 @@
                 "sub_Section": null,
                 "info": [],
                 "location": "C-301"
+              }
+            ]
+          }
+        }
+      },
+      "Reserve": {
+        "null": {
+          "null": {
+            "Thursday": [
+              {
+                "start": "03:55 PM",
+                "end": "05:15 PM",
+                "name": "Reserve",
+                "type": "Class",
+                "sub_Section": null,
+                "info": [],
+                "location": "C-311"
               }
             ]
           }
