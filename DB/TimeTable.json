@@ -2,170 +2,10 @@
   "Update": {
     "status": "success",
     "message": "Timetable extraction completed successfully.",
-    "last_updated_utc": "2025-12-05 18:26:53 UTC",
-    "local_time_pkt": "2025-12-05 11:26:53 PM PKT"
+    "last_updated_utc": "2025-12-05 19:16:12 UTC",
+    "local_time_pkt": "2025-12-06 12:16:12 AM PKT"
   },
   "BS": {
-    "AI": {
-      "2022": {
-        "A": {
-          "Friday": [
-            {
-              "start": "05:20 PM",
-              "end": "06:40 PM",
-              "name": "Adv AI",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [],
-              "location": "D-304"
-            },
-            {
-              "start": "06:45 PM",
-              "end": "08:05 PM",
-              "name": "Adv AI",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [],
-              "location": "D-304"
-            }
-          ]
-        }
-      },
-      "2023": {
-        "A": {
-          "Friday": [
-            {
-              "start": "10:00 AM",
-              "end": "11:20 AM",
-              "name": "KRR",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [],
-              "location": "C-302"
-            },
-            {
-              "start": "11:30 AM",
-              "end": "12:50 PM",
-              "name": "TBW",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [],
-              "location": "C-302"
-            },
-            {
-              "start": "02:30 PM",
-              "end": "05:15 PM",
-              "name": "OS Lab",
-              "type": "Lab",
-              "sub_Section": null,
-              "info": [],
-              "location": "D-IT Lab 3"
-            }
-          ]
-        },
-        "B": {
-          "Friday": [
-            {
-              "start": "10:00 AM",
-              "end": "11:20 AM",
-              "name": "Algo",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [],
-              "location": "C-303"
-            },
-            {
-              "start": "11:30 AM",
-              "end": "12:50 PM",
-              "name": "KRR",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [],
-              "location": "C-303"
-            },
-            {
-              "start": "02:30 PM",
-              "end": "05:15 PM",
-              "name": "ML Lab",
-              "type": "Lab",
-              "sub_Section": null,
-              "info": [
-                "Cancelled"
-              ],
-              "location": "D-IT Lab 2"
-            }
-          ]
-        }
-      },
-      "2024": {
-        "A": {
-          "Friday": [
-            {
-              "start": "11:30 AM",
-              "end": "01:15 PM",
-              "name": "Psychology",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [],
-              "location": "C-305"
-            },
-            {
-              "start": "08:30 AM",
-              "end": "11:15 AM",
-              "name": "Data St Lab",
-              "type": "Lab",
-              "sub_Section": null,
-              "info": [],
-              "location": "C-Margala 1"
-            }
-          ]
-        },
-        "B": {
-          "Friday": [
-            {
-              "start": "08:30 AM",
-              "end": "10:15 AM",
-              "name": "Psychology",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [],
-              "location": "C-305"
-            },
-            {
-              "start": "10:30 AM",
-              "end": "01:15 PM",
-              "name": "COAL Lab",
-              "type": "Lab",
-              "sub_Section": null,
-              "info": [],
-              "location": "C-Margala 4"
-            }
-          ]
-        },
-        "C": {
-          "Friday": [
-            {
-              "start": "11:30 AM",
-              "end": "01:15 PM",
-              "name": "Psychology",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [],
-              "location": "C-307"
-            },
-            {
-              "start": "02:30 PM",
-              "end": "05:15 PM",
-              "name": "Prog for AI Lab",
-              "type": "Lab",
-              "sub_Section": null,
-              "info": [],
-              "location": "D-IT Lab 4"
-            }
-          ]
-        }
-      }
-    },
     "CY": {
       "2023": {
         "A": {
@@ -447,95 +287,163 @@
         }
       }
     },
-    "CS": {
-      "2025": {
-        "C": {
+    "AI": {
+      "2022": {
+        "A": {
           "Friday": [
             {
-              "start": "08:30 AM",
-              "end": "09:50 AM",
-              "name": "Calculus",
+              "start": "05:20 PM",
+              "end": "06:40 PM",
+              "name": "Adv AI",
               "type": "Class",
               "sub_Section": null,
-              "info": [
-                "ReSchedule"
-              ],
-              "location": "D-315"
+              "info": [],
+              "location": "D-304"
+            },
+            {
+              "start": "06:45 PM",
+              "end": "08:05 PM",
+              "name": "Adv AI",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [],
+              "location": "D-304"
             }
           ]
-        },
-        "D": {
+        }
+      },
+      "2023": {
+        "A": {
           "Friday": [
             {
               "start": "10:00 AM",
               "end": "11:20 AM",
-              "name": "Calculus",
+              "name": "KRR",
               "type": "Class",
               "sub_Section": null,
-              "info": [
-                "ReSchedule"
-              ],
-              "location": "D-315"
-            }
-          ]
-        },
-        "G": {
-          "Friday": [
-            {
-              "start": "02:30 PM",
-              "end": "04:15 PM",
-              "name": "Func Eng",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [
-                "ReSchedule"
-              ],
-              "location": "C-303"
-            }
-          ]
-        },
-        "H": {
-          "Friday": [
+              "info": [],
+              "location": "C-302"
+            },
             {
               "start": "11:30 AM",
               "end": "12:50 PM",
-              "name": "Calculus",
+              "name": "TBW",
               "type": "Class",
               "sub_Section": null,
+              "info": [],
+              "location": "C-302"
+            },
+            {
+              "start": "02:30 PM",
+              "end": "05:15 PM",
+              "name": "OS Lab",
+              "type": "Lab",
+              "sub_Section": null,
+              "info": [],
+              "location": "D-IT Lab 3"
+            }
+          ]
+        },
+        "B": {
+          "Friday": [
+            {
+              "start": "10:00 AM",
+              "end": "11:20 AM",
+              "name": "Algo",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [],
+              "location": "C-303"
+            },
+            {
+              "start": "11:30 AM",
+              "end": "12:50 PM",
+              "name": "KRR",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [],
+              "location": "C-303"
+            },
+            {
+              "start": "02:30 PM",
+              "end": "05:15 PM",
+              "name": "ML Lab",
+              "type": "Lab",
+              "sub_Section": null,
               "info": [
-                "ReSchedule"
+                "Cancelled"
               ],
-              "location": "D-315"
+              "location": "D-IT Lab 2"
             }
-          ],
-          "Subsections": {
-            "H2": {
-              "Friday": [
-                {
-                  "start": "02:30 PM",
-                  "end": "03:50 PM",
-                  "name": "Func Eng Lab",
-                  "type": "Lab",
-                  "sub_Section": null,
-                  "info": [
-                    "ReSchedule"
-                  ],
-                  "location": "C-304"
-                },
-                {
-                  "start": "03:55 PM",
-                  "end": "05:15 PM",
-                  "name": "Func Eng Lab",
-                  "type": "Lab",
-                  "sub_Section": null,
-                  "info": [
-                    "ReSchedule"
-                  ],
-                  "location": "C-304"
-                }
-              ]
+          ]
+        }
+      },
+      "2024": {
+        "A": {
+          "Friday": [
+            {
+              "start": "11:30 AM",
+              "end": "01:15 PM",
+              "name": "Psychology",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [],
+              "location": "C-305"
+            },
+            {
+              "start": "08:30 AM",
+              "end": "11:15 AM",
+              "name": "Data St Lab",
+              "type": "Lab",
+              "sub_Section": null,
+              "info": [],
+              "location": "C-Margala 1"
             }
-          }
+          ]
+        },
+        "B": {
+          "Friday": [
+            {
+              "start": "08:30 AM",
+              "end": "10:15 AM",
+              "name": "Psychology",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [],
+              "location": "C-305"
+            },
+            {
+              "start": "10:30 AM",
+              "end": "01:15 PM",
+              "name": "COAL Lab",
+              "type": "Lab",
+              "sub_Section": null,
+              "info": [],
+              "location": "C-Margala 4"
+            }
+          ]
+        },
+        "C": {
+          "Friday": [
+            {
+              "start": "11:30 AM",
+              "end": "01:15 PM",
+              "name": "Psychology",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [],
+              "location": "C-307"
+            },
+            {
+              "start": "02:30 PM",
+              "end": "05:15 PM",
+              "name": "Prog for AI Lab",
+              "type": "Lab",
+              "sub_Section": null,
+              "info": [],
+              "location": "D-IT Lab 4"
+            }
+          ]
         }
       }
     },
@@ -798,6 +706,98 @@
               "location": "D-302"
             }
           ]
+        }
+      }
+    },
+    "CS": {
+      "2025": {
+        "C": {
+          "Friday": [
+            {
+              "start": "08:30 AM",
+              "end": "09:50 AM",
+              "name": "Calculus",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [
+                "ReSchedule"
+              ],
+              "location": "D-315"
+            }
+          ]
+        },
+        "D": {
+          "Friday": [
+            {
+              "start": "10:00 AM",
+              "end": "11:20 AM",
+              "name": "Calculus",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [
+                "ReSchedule"
+              ],
+              "location": "D-315"
+            }
+          ]
+        },
+        "G": {
+          "Friday": [
+            {
+              "start": "02:30 PM",
+              "end": "04:15 PM",
+              "name": "Func Eng",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [
+                "ReSchedule"
+              ],
+              "location": "C-303"
+            }
+          ]
+        },
+        "H": {
+          "Friday": [
+            {
+              "start": "11:30 AM",
+              "end": "12:50 PM",
+              "name": "Calculus",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [
+                "ReSchedule"
+              ],
+              "location": "D-315"
+            }
+          ],
+          "Subsections": {
+            "H2": {
+              "Friday": [
+                {
+                  "start": "02:30 PM",
+                  "end": "03:50 PM",
+                  "name": "Func Eng Lab",
+                  "type": "Lab",
+                  "sub_Section": null,
+                  "info": [
+                    "ReSchedule"
+                  ],
+                  "location": "C-304"
+                },
+                {
+                  "start": "03:55 PM",
+                  "end": "05:15 PM",
+                  "name": "Func Eng Lab",
+                  "type": "Lab",
+                  "sub_Section": null,
+                  "info": [
+                    "ReSchedule"
+                  ],
+                  "location": "C-304"
+                }
+              ]
+            }
+          }
         }
       }
     }
