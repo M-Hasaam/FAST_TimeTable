@@ -2,8 +2,8 @@
   "Update": {
     "status": "success",
     "message": "Timetable extraction completed successfully.",
-    "last_updated_utc": "2025-12-06 11:15:03 UTC",
-    "local_time_pkt": "2025-12-06 04:15:03 PM PKT"
+    "last_updated_utc": "2025-12-06 12:36:52 UTC",
+    "local_time_pkt": "2025-12-06 05:36:52 PM PKT"
   },
   "BS": {
     "AI": {
@@ -378,19 +378,6 @@
               "sub_Section": null,
               "info": [],
               "location": "C-110"
-            }
-          ]
-        },
-        "B": {
-          "Saturday": [
-            {
-              "start": "03:55 PM",
-              "end": "05:15 PM",
-              "name": "Info Sec",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [],
-              "location": "C-310"
             }
           ]
         },
@@ -850,19 +837,6 @@
     },
     "DS": {
       "2022": {
-        "A": {
-          "Saturday": [
-            {
-              "start": "03:55 PM",
-              "end": "05:15 PM",
-              "name": "Deep Learning",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [],
-              "location": "C-405"
-            }
-          ]
-        },
         "B": {
           "Saturday": [
             {
@@ -1596,6 +1570,15 @@
           "B": {
             "Saturday": [
               {
+                "start": "03:55 PM",
+                "end": "05:15 PM",
+                "name": "Info Sec",
+                "type": "Class",
+                "sub_Section": null,
+                "info": [],
+                "location": "C-310"
+              },
+              {
                 "start": "08:30 AM",
                 "end": "09:50 AM",
                 "name": "COAL",
@@ -2086,6 +2069,15 @@
                 "sub_Section": null,
                 "info": [],
                 "location": "C-307"
+              },
+              {
+                "start": "03:55 PM",
+                "end": "05:15 PM",
+                "name": "Deep Learning",
+                "type": "Class",
+                "sub_Section": null,
+                "info": [],
+                "location": "C-405"
               }
             ]
           },
