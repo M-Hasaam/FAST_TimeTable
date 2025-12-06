@@ -2,8 +2,8 @@
   "Update": {
     "status": "success",
     "message": "Timetable extraction completed successfully.",
-    "last_updated_utc": "2025-12-06 09:19:04 UTC",
-    "local_time_pkt": "2025-12-06 02:19:04 PM PKT"
+    "last_updated_utc": "2025-12-06 10:19:02 UTC",
+    "local_time_pkt": "2025-12-06 03:19:02 PM PKT"
   },
   "BS": {
     "AI": {
@@ -714,7 +714,7 @@
                   "type": "Lab",
                   "sub_Section": null,
                   "info": [],
-                  "location": "A-Mehran 2"
+                  "location": "C-Margala 3"
                 }
               ]
             },
@@ -727,7 +727,7 @@
                   "type": "Lab",
                   "sub_Section": null,
                   "info": [],
-                  "location": "A-CALL-3"
+                  "location": "D-IT Lab 4"
                 }
               ]
             }
@@ -1315,7 +1315,7 @@
                 "type": "Lab",
                 "sub_Section": null,
                 "info": [],
-                "location": "A-Mehran 1"
+                "location": "C-Margala 1"
               }
             ]
           }
