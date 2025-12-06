@@ -2,10 +2,102 @@
   "Update": {
     "status": "success",
     "message": "Timetable extraction completed successfully.",
-    "last_updated_utc": "2025-12-06 04:21:33 UTC",
-    "local_time_pkt": "2025-12-06 09:21:33 AM PKT"
+    "last_updated_utc": "2025-12-06 05:18:42 UTC",
+    "local_time_pkt": "2025-12-06 10:18:42 AM PKT"
   },
   "BS": {
+    "CS": {
+      "2025": {
+        "C": {
+          "Friday": [
+            {
+              "start": "08:30 AM",
+              "end": "09:50 AM",
+              "name": "Calculus",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [
+                "ReSchedule"
+              ],
+              "location": "D-315"
+            }
+          ]
+        },
+        "D": {
+          "Friday": [
+            {
+              "start": "10:00 AM",
+              "end": "11:20 AM",
+              "name": "Calculus",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [
+                "ReSchedule"
+              ],
+              "location": "D-315"
+            }
+          ]
+        },
+        "G": {
+          "Friday": [
+            {
+              "start": "02:30 PM",
+              "end": "04:15 PM",
+              "name": "Func Eng",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [
+                "ReSchedule"
+              ],
+              "location": "C-303"
+            }
+          ]
+        },
+        "H": {
+          "Friday": [
+            {
+              "start": "11:30 AM",
+              "end": "12:50 PM",
+              "name": "Calculus",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [
+                "ReSchedule"
+              ],
+              "location": "D-315"
+            }
+          ],
+          "Subsections": {
+            "H2": {
+              "Friday": [
+                {
+                  "start": "02:30 PM",
+                  "end": "03:50 PM",
+                  "name": "Func Eng Lab",
+                  "type": "Lab",
+                  "sub_Section": null,
+                  "info": [
+                    "ReSchedule"
+                  ],
+                  "location": "C-304"
+                },
+                {
+                  "start": "03:55 PM",
+                  "end": "05:15 PM",
+                  "name": "Func Eng Lab",
+                  "type": "Lab",
+                  "sub_Section": null,
+                  "info": [
+                    "ReSchedule"
+                  ],
+                  "location": "C-304"
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
     "AI": {
       "2022": {
         "A": {
@@ -706,98 +798,6 @@
               "location": "D-302"
             }
           ]
-        }
-      }
-    },
-    "CS": {
-      "2025": {
-        "C": {
-          "Friday": [
-            {
-              "start": "08:30 AM",
-              "end": "09:50 AM",
-              "name": "Calculus",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [
-                "ReSchedule"
-              ],
-              "location": "D-315"
-            }
-          ]
-        },
-        "D": {
-          "Friday": [
-            {
-              "start": "10:00 AM",
-              "end": "11:20 AM",
-              "name": "Calculus",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [
-                "ReSchedule"
-              ],
-              "location": "D-315"
-            }
-          ]
-        },
-        "G": {
-          "Friday": [
-            {
-              "start": "02:30 PM",
-              "end": "04:15 PM",
-              "name": "Func Eng",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [
-                "ReSchedule"
-              ],
-              "location": "C-303"
-            }
-          ]
-        },
-        "H": {
-          "Friday": [
-            {
-              "start": "11:30 AM",
-              "end": "12:50 PM",
-              "name": "Calculus",
-              "type": "Class",
-              "sub_Section": null,
-              "info": [
-                "ReSchedule"
-              ],
-              "location": "D-315"
-            }
-          ],
-          "Subsections": {
-            "H2": {
-              "Friday": [
-                {
-                  "start": "02:30 PM",
-                  "end": "03:50 PM",
-                  "name": "Func Eng Lab",
-                  "type": "Lab",
-                  "sub_Section": null,
-                  "info": [
-                    "ReSchedule"
-                  ],
-                  "location": "C-304"
-                },
-                {
-                  "start": "03:55 PM",
-                  "end": "05:15 PM",
-                  "name": "Func Eng Lab",
-                  "type": "Lab",
-                  "sub_Section": null,
-                  "info": [
-                    "ReSchedule"
-                  ],
-                  "location": "C-304"
-                }
-              ]
-            }
-          }
         }
       }
     }
