@@ -2,8 +2,8 @@
   "Update": {
     "status": "success",
     "message": "Timetable extraction completed successfully.",
-    "last_updated_utc": "2025-12-07 13:24:52 UTC",
-    "local_time_pkt": "2025-12-07 06:24:52 PM PKT"
+    "last_updated_utc": "2025-12-07 14:16:50 UTC",
+    "local_time_pkt": "2025-12-07 07:16:50 PM PKT"
   },
   "BS": {
     "AI": {
@@ -2563,6 +2563,50 @@
                 "sub_Section": null,
                 "info": [],
                 "location": "C-304"
+              }
+            ]
+          }
+        }
+      },
+      "Reserved for Sir Ismail": {
+        "null": {
+          "null": {
+            "Tuesday": [
+              {
+                "start": "08:30 AM",
+                "end": "09:50 AM",
+                "name": "Reserved for Sir Ismail",
+                "type": "Class",
+                "sub_Section": null,
+                "info": [],
+                "location": "C-305"
+              },
+              {
+                "start": "10:00 AM",
+                "end": "11:20 AM",
+                "name": "Reserved for Sir Ismail",
+                "type": "Class",
+                "sub_Section": null,
+                "info": [],
+                "location": "C-305"
+              },
+              {
+                "start": "11:30 AM",
+                "end": "12:50 PM",
+                "name": "Reserved for Sir Ismail",
+                "type": "Class",
+                "sub_Section": null,
+                "info": [],
+                "location": "C-305"
+              },
+              {
+                "start": "01:00 PM",
+                "end": "02:20 PM",
+                "name": "Reserved for Sir Ismail",
+                "type": "Class",
+                "sub_Section": null,
+                "info": [],
+                "location": "C-305"
               }
             ]
           }
