@@ -2,8 +2,8 @@
   "Update": {
     "status": "success",
     "message": "Timetable extraction completed successfully.",
-    "last_updated_utc": "2025-12-07 03:26:37 UTC",
-    "local_time_pkt": "2025-12-07 08:26:37 AM PKT"
+    "last_updated_utc": "2025-12-07 04:32:18 UTC",
+    "local_time_pkt": "2025-12-07 09:32:18 AM PKT"
   },
   "BS": {
     "AI": {
@@ -1907,6 +1907,46 @@
                 "sub_Section": null,
                 "info": [],
                 "location": "C-303"
+              }
+            ]
+          },
+          "null": {
+            "Monday": [
+              {
+                "start": "08:30 AM",
+                "end": "09:50 AM",
+                "name": "Discrete",
+                "type": "Class",
+                "sub_Section": null,
+                "info": [],
+                "location": "D-304"
+              },
+              {
+                "start": "10:00 AM",
+                "end": "11:20 AM",
+                "name": "Discrete",
+                "type": "Class",
+                "sub_Section": null,
+                "info": [],
+                "location": "D-304"
+              },
+              {
+                "start": "11:30 AM",
+                "end": "12:50 PM",
+                "name": "Discrete",
+                "type": "Class",
+                "sub_Section": null,
+                "info": [],
+                "location": "D-304"
+              },
+              {
+                "start": "01:00 PM",
+                "end": "02:20 PM",
+                "name": "Discrete",
+                "type": "Class",
+                "sub_Section": null,
+                "info": [],
+                "location": "D-304"
               }
             ]
           }
