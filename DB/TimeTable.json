@@ -2,8 +2,8 @@
   "Update": {
     "status": "success",
     "message": "Timetable extraction completed successfully.",
-    "last_updated_utc": "2025-12-08 14:21:35 UTC",
-    "local_time_pkt": "2025-12-08 07:21:35 PM PKT"
+    "last_updated_utc": "2025-12-08 15:22:31 UTC",
+    "local_time_pkt": "2025-12-08 08:22:31 PM PKT"
   },
   "BS": {
     "AI": {
@@ -1505,6 +1505,104 @@
                 "sub_Section": null,
                 "info": [],
                 "location": "D-313"
+              }
+            ]
+          }
+        }
+      },
+      "Reserved": {
+        "null": {
+          "null": {
+            "Tuesday": [
+              {
+                "start": "01:00 PM",
+                "end": "02:20 PM",
+                "name": "Reserved",
+                "type": "Class",
+                "sub_Section": null,
+                "info": [],
+                "location": "C-303"
+              },
+              {
+                "start": "02:30 PM",
+                "end": "03:50 PM",
+                "name": "Reserved",
+                "type": "Class",
+                "sub_Section": null,
+                "info": [],
+                "location": "C-303"
+              },
+              {
+                "start": "08:30 AM",
+                "end": "09:50 AM",
+                "name": "Reserved",
+                "type": "Class",
+                "sub_Section": null,
+                "info": [],
+                "location": "D-303"
+              },
+              {
+                "start": "10:00 AM",
+                "end": "11:20 AM",
+                "name": "Reserved",
+                "type": "Class",
+                "sub_Section": null,
+                "info": [],
+                "location": "D-303"
+              },
+              {
+                "start": "11:30 AM",
+                "end": "12:50 PM",
+                "name": "Reserved",
+                "type": "Class",
+                "sub_Section": null,
+                "info": [],
+                "location": "D-303"
+              },
+              {
+                "start": "01:00 PM",
+                "end": "02:20 PM",
+                "name": "Reserved",
+                "type": "Class",
+                "sub_Section": null,
+                "info": [],
+                "location": "D-303"
+              },
+              {
+                "start": "02:30 PM",
+                "end": "03:50 PM",
+                "name": "Reserved",
+                "type": "Class",
+                "sub_Section": null,
+                "info": [],
+                "location": "D-303"
+              },
+              {
+                "start": "03:55 PM",
+                "end": "05:15 PM",
+                "name": "Reserved",
+                "type": "Class",
+                "sub_Section": null,
+                "info": [],
+                "location": "D-303"
+              },
+              {
+                "start": "05:20 PM",
+                "end": "06:40 PM",
+                "name": "Reserved",
+                "type": "Class",
+                "sub_Section": null,
+                "info": [],
+                "location": "D-303"
+              },
+              {
+                "start": "06:45 PM",
+                "end": "08:05 PM",
+                "name": "Reserved",
+                "type": "Class",
+                "sub_Section": null,
+                "info": [],
+                "location": "D-303"
               }
             ]
           }
