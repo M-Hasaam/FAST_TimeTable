@@ -2,14 +2,14 @@
   "Update": {
     "status": "success",
     "message": "Timetable extraction completed successfully.",
-    "last_updated_utc": "2025-12-08 06:34:20 UTC",
-    "local_time_pkt": "2025-12-08 11:34:20 AM PKT"
+    "last_updated_utc": "2025-12-08 07:23:22 UTC",
+    "local_time_pkt": "2025-12-08 12:23:22 PM PKT"
   },
   "BS": {
     "AI": {
       "2022": {
         "A": {
-          "Monday": [
+          "Tuesday": [
             {
               "start": "10:00 AM",
               "end": "11:20 AM",
@@ -19,7 +19,7 @@
               "info": [
                 "ReSchedule"
               ],
-              "location": "D-303"
+              "location": "C-307"
             }
           ]
         },
@@ -76,7 +76,7 @@
           ]
         },
         "D": {
-          "Monday": [
+          "Tuesday": [
             {
               "start": "11:30 AM",
               "end": "12:50 PM",
@@ -86,7 +86,7 @@
               "info": [
                 "ReSchedule"
               ],
-              "location": "D-303"
+              "location": "C-307"
             }
           ]
         }
@@ -227,12 +227,52 @@
               "info": [],
               "location": "D-301"
             }
+          ],
+          "Tuesday": [
+            {
+              "start": "08:30 AM",
+              "end": "09:50 AM",
+              "name": "Game Design",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [],
+              "location": "D-301"
+            },
+            {
+              "start": "10:00 AM",
+              "end": "11:20 AM",
+              "name": "Game Design",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [],
+              "location": "D-301"
+            }
           ]
         }
       },
       "2023": {
         "A": {
           "Monday": [
+            {
+              "start": "11:30 AM",
+              "end": "12:50 PM",
+              "name": "Game Design",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [],
+              "location": "D-301"
+            },
+            {
+              "start": "01:00 PM",
+              "end": "02:20 PM",
+              "name": "Game Design",
+              "type": "Class",
+              "sub_Section": null,
+              "info": [],
+              "location": "D-301"
+            }
+          ],
+          "Tuesday": [
             {
               "start": "11:30 AM",
               "end": "12:50 PM",
@@ -1014,6 +1054,170 @@
                 "sub_Section": null,
                 "info": [],
                 "location": "D-304"
+              }
+            ],
+            "Tuesday": [
+              {
+                "start": "08:30 AM",
+                "end": "09:50 AM",
+                "name": "PF",
+                "type": "Class",
+                "sub_Section": null,
+                "info": [],
+                "location": "C-309"
+              },
+              {
+                "start": "10:00 AM",
+                "end": "11:20 AM",
+                "name": "PF",
+                "type": "Class",
+                "sub_Section": null,
+                "info": [],
+                "location": "C-309"
+              },
+              {
+                "start": "11:30 AM",
+                "end": "12:50 PM",
+                "name": "PF",
+                "type": "Class",
+                "sub_Section": null,
+                "info": [],
+                "location": "C-309"
+              },
+              {
+                "start": "01:00 PM",
+                "end": "02:20 PM",
+                "name": "PF",
+                "type": "Class",
+                "sub_Section": null,
+                "info": [],
+                "location": "C-309"
+              },
+              {
+                "start": "02:30 PM",
+                "end": "03:50 PM",
+                "name": "PF",
+                "type": "Class",
+                "sub_Section": null,
+                "info": [],
+                "location": "C-309"
+              },
+              {
+                "start": "03:55 PM",
+                "end": "05:15 PM",
+                "name": "PF",
+                "type": "Class",
+                "sub_Section": null,
+                "info": [],
+                "location": "C-309"
+              },
+              {
+                "start": "08:30 AM",
+                "end": "09:50 AM",
+                "name": "PF",
+                "type": "Class",
+                "sub_Section": null,
+                "info": [],
+                "location": "C-310"
+              },
+              {
+                "start": "10:00 AM",
+                "end": "11:20 AM",
+                "name": "PF",
+                "type": "Class",
+                "sub_Section": null,
+                "info": [],
+                "location": "C-310"
+              },
+              {
+                "start": "11:30 AM",
+                "end": "12:50 PM",
+                "name": "PF",
+                "type": "Class",
+                "sub_Section": null,
+                "info": [],
+                "location": "C-310"
+              },
+              {
+                "start": "01:00 PM",
+                "end": "02:20 PM",
+                "name": "PF",
+                "type": "Class",
+                "sub_Section": null,
+                "info": [],
+                "location": "C-310"
+              },
+              {
+                "start": "02:30 PM",
+                "end": "03:50 PM",
+                "name": "PF",
+                "type": "Class",
+                "sub_Section": null,
+                "info": [],
+                "location": "C-310"
+              },
+              {
+                "start": "03:55 PM",
+                "end": "05:15 PM",
+                "name": "PF",
+                "type": "Class",
+                "sub_Section": null,
+                "info": [],
+                "location": "C-310"
+              },
+              {
+                "start": "08:30 AM",
+                "end": "09:50 AM",
+                "name": "PF",
+                "type": "Class",
+                "sub_Section": null,
+                "info": [],
+                "location": "C-311"
+              },
+              {
+                "start": "10:00 AM",
+                "end": "11:20 AM",
+                "name": "PF",
+                "type": "Class",
+                "sub_Section": null,
+                "info": [],
+                "location": "C-311"
+              },
+              {
+                "start": "11:30 AM",
+                "end": "12:50 PM",
+                "name": "PF",
+                "type": "Class",
+                "sub_Section": null,
+                "info": [],
+                "location": "C-311"
+              },
+              {
+                "start": "01:00 PM",
+                "end": "02:20 PM",
+                "name": "PF",
+                "type": "Class",
+                "sub_Section": null,
+                "info": [],
+                "location": "C-311"
+              },
+              {
+                "start": "02:30 PM",
+                "end": "03:50 PM",
+                "name": "PF",
+                "type": "Class",
+                "sub_Section": null,
+                "info": [],
+                "location": "C-311"
+              },
+              {
+                "start": "03:55 PM",
+                "end": "05:15 PM",
+                "name": "PF",
+                "type": "Class",
+                "sub_Section": null,
+                "info": [],
+                "location": "C-311"
               }
             ]
           }
