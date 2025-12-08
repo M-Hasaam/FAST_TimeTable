@@ -2,8 +2,8 @@
   "Update": {
     "status": "success",
     "message": "Timetable extraction completed successfully.",
-    "last_updated_utc": "2025-12-08 07:23:22 UTC",
-    "local_time_pkt": "2025-12-08 12:23:22 PM PKT"
+    "last_updated_utc": "2025-12-08 08:30:38 UTC",
+    "local_time_pkt": "2025-12-08 01:30:38 PM PKT"
   },
   "BS": {
     "AI": {
@@ -1710,6 +1710,68 @@
                 "sub_Section": null,
                 "info": [],
                 "location": "C-305"
+              }
+            ]
+          }
+        }
+      },
+      "Soventure' 25 Closing Ceremony": {
+        "null": {
+          "null": {
+            "Tuesday": [
+              {
+                "start": "08:30 AM",
+                "end": "09:50 AM",
+                "name": "Soventure' 25 Closing Ceremony",
+                "type": "Class",
+                "sub_Section": null,
+                "info": [],
+                "location": "C-110"
+              },
+              {
+                "start": "10:00 AM",
+                "end": "11:20 AM",
+                "name": "Soventure' 25 Closing Ceremony",
+                "type": "Class",
+                "sub_Section": null,
+                "info": [],
+                "location": "C-110"
+              },
+              {
+                "start": "11:30 AM",
+                "end": "12:50 PM",
+                "name": "Soventure' 25 Closing Ceremony",
+                "type": "Class",
+                "sub_Section": null,
+                "info": [],
+                "location": "C-110"
+              },
+              {
+                "start": "01:00 PM",
+                "end": "02:20 PM",
+                "name": "Soventure' 25 Closing Ceremony",
+                "type": "Class",
+                "sub_Section": null,
+                "info": [],
+                "location": "C-110"
+              },
+              {
+                "start": "02:30 PM",
+                "end": "03:50 PM",
+                "name": "Soventure' 25 Closing Ceremony",
+                "type": "Class",
+                "sub_Section": null,
+                "info": [],
+                "location": "C-110"
+              },
+              {
+                "start": "03:55 PM",
+                "end": "05:15 PM",
+                "name": "Soventure' 25 Closing Ceremony",
+                "type": "Class",
+                "sub_Section": null,
+                "info": [],
+                "location": "C-110"
               }
             ]
           }
