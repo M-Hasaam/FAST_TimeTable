@@ -2,8 +2,8 @@
   "Update": {
     "status": "success",
     "message": "Timetable extraction completed successfully.",
-    "last_updated_utc": "2025-12-09 04:28:20 UTC",
-    "local_time_pkt": "2025-12-09 09:28:20 AM PKT"
+    "last_updated_utc": "2025-12-09 05:19:49 UTC",
+    "local_time_pkt": "2025-12-09 10:19:49 AM PKT"
   },
   "BS": {
     "AI": {
@@ -2324,6 +2324,68 @@
           }
         }
       },
+      "Reserved by Ms. Tajiya": {
+        "null": {
+          "null": {
+            "Tuesday": [
+              {
+                "start": "08:30 AM",
+                "end": "09:50 AM",
+                "name": "Reserved by Ms. Tajiya",
+                "type": "Class",
+                "sub_Section": null,
+                "info": [],
+                "location": "C-403"
+              },
+              {
+                "start": "10:00 AM",
+                "end": "11:20 AM",
+                "name": "Reserved by Ms. Tajiya",
+                "type": "Class",
+                "sub_Section": null,
+                "info": [],
+                "location": "C-403"
+              },
+              {
+                "start": "11:30 AM",
+                "end": "12:50 PM",
+                "name": "Reserved by Ms. Tajiya",
+                "type": "Class",
+                "sub_Section": null,
+                "info": [],
+                "location": "C-403"
+              },
+              {
+                "start": "01:00 PM",
+                "end": "02:20 PM",
+                "name": "Reserved by Ms. Tajiya",
+                "type": "Class",
+                "sub_Section": null,
+                "info": [],
+                "location": "C-403"
+              },
+              {
+                "start": "02:30 PM",
+                "end": "03:50 PM",
+                "name": "Reserved by Ms. Tajiya",
+                "type": "Class",
+                "sub_Section": null,
+                "info": [],
+                "location": "C-403"
+              },
+              {
+                "start": "03:55 PM",
+                "end": "05:15 PM",
+                "name": "Reserved by Ms. Tajiya",
+                "type": "Class",
+                "sub_Section": null,
+                "info": [],
+                "location": "C-403"
+              }
+            ]
+          }
+        }
+      },
       "Reserved for Dr Rizwan": {
         "null": {
           "null": {
@@ -2520,6 +2582,68 @@
           }
         }
       },
+      "Reserved for Sir Imran": {
+        "null": {
+          "null": {
+            "Tuesday": [
+              {
+                "start": "08:30 AM",
+                "end": "09:50 AM",
+                "name": "Reserved for Sir Imran",
+                "type": "Class",
+                "sub_Section": null,
+                "info": [],
+                "location": "C-404"
+              },
+              {
+                "start": "10:00 AM",
+                "end": "11:20 AM",
+                "name": "Reserved for Sir Imran",
+                "type": "Class",
+                "sub_Section": null,
+                "info": [],
+                "location": "C-404"
+              },
+              {
+                "start": "11:30 AM",
+                "end": "12:50 PM",
+                "name": "Reserved for Sir Imran",
+                "type": "Class",
+                "sub_Section": null,
+                "info": [],
+                "location": "C-404"
+              },
+              {
+                "start": "01:00 PM",
+                "end": "02:20 PM",
+                "name": "Reserved for Sir Imran",
+                "type": "Class",
+                "sub_Section": null,
+                "info": [],
+                "location": "C-404"
+              },
+              {
+                "start": "02:30 PM",
+                "end": "03:50 PM",
+                "name": "Reserved for Sir Imran",
+                "type": "Class",
+                "sub_Section": null,
+                "info": [],
+                "location": "C-404"
+              },
+              {
+                "start": "03:55 PM",
+                "end": "05:15 PM",
+                "name": "Reserved for Sir Imran",
+                "type": "Class",
+                "sub_Section": null,
+                "info": [],
+                "location": "C-404"
+              }
+            ]
+          }
+        }
+      },
       "Reserved for Sir Ismail": {
         "null": {
           "null": {
@@ -2559,23 +2683,6 @@
                 "sub_Section": null,
                 "info": [],
                 "location": "C-305"
-              }
-            ]
-          }
-        }
-      },
-      "Resre": {
-        "null": {
-          "null": {
-            "Tuesday": [
-              {
-                "start": "08:30 AM",
-                "end": "09:50 AM",
-                "name": "Resre",
-                "type": "Class",
-                "sub_Section": null,
-                "info": [],
-                "location": "C-403"
               }
             ]
           }
@@ -2638,23 +2745,6 @@
                 "sub_Section": null,
                 "info": [],
                 "location": "C-110"
-              }
-            ]
-          }
-        }
-      },
-      "resereved": {
-        "null": {
-          "null": {
-            "Tuesday": [
-              {
-                "start": "10:00 AM",
-                "end": "11:20 AM",
-                "name": "resereved",
-                "type": "Class",
-                "sub_Section": null,
-                "info": [],
-                "location": "C-403"
               }
             ]
           }
