@@ -2,8 +2,8 @@
   "Update": {
     "status": "success",
     "message": "Timetable extraction completed successfully.",
-    "last_updated_utc": "2026-02-14 22:23:00 UTC",
-    "local_time_pkt": "2026-02-15 03:23:00 AM PKT"
+    "last_updated_utc": "2026-02-14 23:23:45 UTC",
+    "local_time_pkt": "2026-02-15 04:23:45 AM PKT"
   },
   "BS": {
     "AI": {
